@@ -1,0 +1,33 @@
+{
+glyphname = "smartphone-symbolic";
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+ref = smartphone_frame;
+}
+);
+width = 1024;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = smartphone_frame;
+}
+);
+width = 1024;
+},
+{
+layerId = "464522EE-F079-4D8F-87A8-41A33642E50C";
+shapes = (
+{
+ref = smartphone_frame;
+}
+);
+width = 1024;
+}
+);
+unicode = 57344;
+}

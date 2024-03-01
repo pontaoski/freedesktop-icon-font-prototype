@@ -1,0 +1,109 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+axes = (
+{
+name = "Optical size";
+tag = opsz;
+}
+);
+customParameters = (
+{
+name = "Color Palettes";
+value = (
+(
+(0,255),
+(255,255),
+(0,255),
+(185,199,207,255),
+(41,199,50,255),
+(253,130,8,255),
+(252,33,37,255),
+(10,96,255,255),
+(47,80,106,255),
+(234,0,218,255),
+(229,0,234,255),
+(47,80,106,255)
+)
+);
+}
+);
+date = "2024-03-01 18:28:33 +0000";
+familyName = "Breeze Icons";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+fontMaster = (
+{
+axesValues = (
+16
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = smartphoneconnected;
+}
+);
+id = m003;
+metricValues = (
+{
+pos = 1024;
+}
+);
+name = "16px";
+},
+{
+axesValues = (
+32
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = smartphoneconnected;
+}
+);
+id = m01;
+metricValues = (
+{
+pos = 1024;
+}
+);
+name = "32px";
+},
+{
+axesValues = (
+64
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = smartphoneconnected;
+}
+);
+id = "464522EE-F079-4D8F-87A8-41A33642E50C";
+metricValues = (
+{
+pos = 1024;
+}
+);
+name = "64px";
+}
+);
+metrics = (
+{
+type = ascender;
+}
+);
+settings = {
+gridLength = 32;
+gridSubDivision = 32;
+};
+unitsPerEm = 1024;
+versionMajor = 1;
+versionMinor = 0;
+}
