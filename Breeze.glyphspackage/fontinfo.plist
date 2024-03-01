@@ -26,6 +26,10 @@ value = (
 (47,80,106,255)
 )
 );
+},
+{
+name = "Default Layer Width";
+value = "1024";
 }
 );
 date = "2024-03-01 18:28:33 +0000";
@@ -100,8 +104,8 @@ type = ascender;
 }
 );
 settings = {
-gridLength = 32;
-gridSubDivision = 32;
+gridLength = 16;
+gridSubDivision = 16;
 };
 unitsPerEm = 1024;
 versionMajor = 1;

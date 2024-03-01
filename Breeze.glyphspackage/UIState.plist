@@ -1,8 +1,11 @@
 {
 displayStrings = (
-"/smartphone_frame/smartphone-symbolic",
 "",
+"/smartphone-symbolic",
 "",
+"/cutout-folder-base/folder-new",
+"",
+"/folder-new",
 ""
 );
 }

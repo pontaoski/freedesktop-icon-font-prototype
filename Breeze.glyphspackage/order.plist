@@ -1,7 +1,11 @@
 (
+"folder-new",
+"folder-symbolic",
+"folder-sync",
 "smartphone-symbolic",
 smartphoneconnected,
 smartphonedisconnected,
 smartphonetrusted,
+"cutout-folder-base",
 smartphone_frame
 )
